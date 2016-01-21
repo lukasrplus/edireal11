@@ -456,8 +456,8 @@ button.close:hover {
 	padding-bottom:120px;
 }
 .wrap-container6020 {
-	padding-top:60px;
-	padding-bottom:20px;
+	padding-top:40px;
+	padding-bottom:40px;
 }
 .wrap-container8040 {
 	padding-top:80px;
@@ -1098,7 +1098,7 @@ background:
 
 .affa_counter_text {
 	text-align:center;
-	margin-bottom:40px;
+	margin-bottom:0px;
 }
 	.affa_counter_text h4 {
 		color:#d0d0d0;
