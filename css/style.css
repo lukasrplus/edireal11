@@ -24,7 +24,7 @@ background:
       rgba(255, 255, 255, 0.6),
       rgba(255, 255, 255, 0.6)
     ),
-url(https://s3.eu-central-1.amazonaws.com/edireal/background/bg15.jpeg);
+url(https://s3.eu-central-1.amazonaws.com/edireal/background/bg_new1.jpg);
 	font-family:Oxygen, Arial, sans-serif;
 	color:#808080;
 	font-size:15px;
@@ -705,7 +705,7 @@ background:
       rgba(0, 0, 0, 0.2),
       rgba(0, 0, 0, 0.2)
     ),
-   url(https://s3.eu-central-1.amazonaws.com/edireal/background/bg18.jpeg);
+   url(https://s3.eu-central-1.amazonaws.com/edireal/background/bg_new1.jpg);
 }
 
 #roadshow {
@@ -1336,6 +1336,70 @@ background:
       rgba(0, 203, 255, 0)
     ),
     url(http://projektas.at/webpagethumb/956090/team_pic/de/0/0/P/1445938432625454ua_Projektas_Farbe_216-Lukas_WEB.jpg);
+}
+
+#feature1 {
+		height: 400px;
+		background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  background-repeat: repeat;
+  background-color: black;
+  max-width: 100%;
+  background:
+   linear-gradient(
+      rgba(0, 203, 255, 0),
+      rgba(0, 203, 255, 0)
+    ),
+    url(https://s3.eu-central-1.amazonaws.com/edireal/background/bg15.jpeg);
+}
+
+#feature2 {
+		height: 400px;
+		background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  background-repeat: repeat;
+  background-color: black;
+  max-width: 100%;
+  background:
+   linear-gradient(
+      rgba(0, 203, 255, 0),
+      rgba(0, 203, 255, 0)
+    ),
+    url(https://s3.eu-central-1.amazonaws.com/edireal/background/bg17.jpeg);
+}
+
+#feature3 {
+		height: 400px;
+		background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  background-repeat: repeat;
+  background-color: black;
+  max-width: 100%;
+  background:
+   linear-gradient(
+      rgba(0, 203, 255, 0),
+      rgba(0, 203, 255, 0)
+    ),
+    url(https://s3.eu-central-1.amazonaws.com/edireal/background/bg6.jpeg);
+}
+
+#feature4 {
+		height: 400px;
+		background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  background-repeat: repeat;
+  background-color: black;
+  max-width: 100%;
+  background:
+   linear-gradient(
+      rgba(0, 203, 255, 0),
+      rgba(0, 203, 255, 0)
+    ),
+    url(https://s3.eu-central-1.amazonaws.com/edireal/background/bg2.jpeg);
 }
 
 .prime-nav {
